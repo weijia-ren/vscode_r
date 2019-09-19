@@ -1,4 +1,4 @@
-This is a new file to test git
+This is a new file to test git...
 
 1+1
 2+2
